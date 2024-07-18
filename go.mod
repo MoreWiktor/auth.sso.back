@@ -1,3 +1,3 @@
-module github.com/morewiktor/go.sso.back
+module github.com/MoreWiktor/go.sso.back
 
 go 1.22.5
